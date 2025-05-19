@@ -37,7 +37,7 @@
     "test:types": "tsc --noEmit"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "latest",
+    "@fimion/lint-config": "latest",
     "@vitest/coverage-v8": "latest",
     "bumpp": "latest",
     "changelogithub": "latest",

@@ -1,3 +1,3 @@
-import antfu from '@antfu/eslint-config'
+import ESLintTSConfig from "@fimion/lint-config/eslint-ts";
 
-export default antfu()
+export default ESLintTSConfig;
